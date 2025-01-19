@@ -25,7 +25,7 @@ if(yt.results.length < 1) return reply("Results is not found !")
 let yts = yt.results[0]  
 const ytdl = await ytmp3(yts.url)
 		
-let ytmsg = `*🎶 SACHIYA MD YT DOWNLOAD 🎶*
+let ytmsg = `*🎶 ISHAN MD YT DOWNLOAD 🎶*
 
 
 🎵 *TITLE :* ${yts.title}
@@ -34,7 +34,7 @@ let ytmsg = `*🎶 SACHIYA MD YT DOWNLOAD 🎶*
 👀 *VIEWS :* ${yts.views}
 🖇️ *URL :* ${yts.url}
 
-> *© CREATED BY SACHINTHA*
+> *© CREATED BY ISHAN*
 `
 // SEND DETAILS
 await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `${ytmsg}`}, { quoted: mek });
