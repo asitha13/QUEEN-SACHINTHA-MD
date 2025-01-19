@@ -21,7 +21,7 @@ cmd(
       }
       const _0x13795e = await readEnv()
       let _0x42651a =
-             '\n\u250F\u2501\u252B*\u26ACSACHIYA-SETTING\u26AC*\u2523\u2501\u273E\n\u2503\u273B \n\u253B\n*🌈️MODE \u27AD* _' +
+             '\n\u250F\u2501\u252B*\u26ACISHAN-SETTING\u26AC*\u2523\u2501\u273E\n\u2503\u273B \n\u253B\n*🌈️MODE \u27AD* _' +
         _0x13795e.MODE +
         '_\n*🇰🇷CHAT REPLY \u27AD* _' +
         _0x13795e.AUTO_REPLY +
@@ -55,11 +55,11 @@ cmd(
             forwardingScore: 1,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterName: 'SACHIYA-MD\u273B',
+              newsletterName: 'ISHAN-MD\u273B',
               serverMessageId: 999,
             },
             externalAdReply: {
-              title: 'SACHIYA MD',
+              title: 'ISHAN MD',
               body: 'LSACHINTHA PASHAN',
               mediaType: 1,
               sourceUrl: 'https://github.com/LAKSIDUOFFICIAL',
@@ -111,12 +111,12 @@ cmd(
               forwardingScore: 1,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterName: 'SACHIYA-MD\u273B',
+                newsletterName: 'ISHAN-MD\u273B',
                 serverMessageId: 999,
               },
               externalAdReply: {
-                title: 'SACHIYA MD',
-                body: 'SACHINTHA PASHAN',
+                title: 'ISHAN MD',
+                body: 'ISHAN CHAMIKA',
                 mediaType: 1,
                 sourceUrl: 'https://github.com/LAKSIDUOFFICIAL',
                 thumbnailUrl:
